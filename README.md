@@ -1,2 +1,1 @@
-# Statistical-Modelling-for-Business
-USyd Assignment
+# Statistical-Modelling
